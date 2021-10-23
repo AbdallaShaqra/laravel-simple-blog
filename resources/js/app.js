@@ -37,6 +37,6 @@ Vue.component('post', require('./components/Elements/SingleArticle.vue').default
  * or customize the JavaScript scaffolding to fit your unique needs.
  */
 
-const app = new Vue({
-    el: '#app',
-});
+new Vue({
+    
+}).$mount('#app')
